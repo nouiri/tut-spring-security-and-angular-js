@@ -22,6 +22,7 @@ public class UiApplication {
 	}
 
 	public static void main(String[] args) {
+		//main methode
 		SpringApplication.run(UiApplication.class, args);
 	}
 
